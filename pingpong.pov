@@ -14,7 +14,7 @@ camera {
 	perspective
 	angle 75
 	right x*image_width/image_height
-	location  <-6.0+T, 25.0 ,-25.0>
+	location  <-6.0, 25.0 ,-25.0>
 	look_at   <0.0 , 2.0 , 0.0>
 	//rotate <0,T*360,0>
 }
